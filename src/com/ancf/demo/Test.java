@@ -6,5 +6,6 @@ package com.ancf.demo;
 public class Test {
     public static void main(String[] args) {
         System.out.println(1111);
+//        git pull origin master --allow-unrelated-histories
     }
 }
